@@ -5,7 +5,7 @@ docker build -t nodeapp .
 ```
 Running
 ```
-docker-compose up
+docker-compose up -d
 ```
 Open in browser
 ```
