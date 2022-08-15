@@ -1,5 +1,5 @@
 # nodejs-loadbalancer
-loadbalancer nodejs wirh haproxy
+loadbalancer nodejs with haproxy
 ```
 docker built -t nodeapp .
 ```
