@@ -1,7 +1,7 @@
 # nodejs-loadbalancer
 loadbalancer nodejs with haproxy
 ```
-docker built -t nodeapp .
+docker build -t nodeapp .
 ```
 Running
 ```
